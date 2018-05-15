@@ -17,6 +17,11 @@
   },
   "homepage": "https://github.com/lucaswadedavis/mimesis#readme",
   "dependencies": {
-    "selenium-webdriver": "^4.0.0-alpha.1"
+    "chai": "^4.1.2",
+    "chai-as-promised": "^7.1.1",
+    "colors": "^1.2.5",
+    "selenium-webdriver": "^4.0.0-alpha.1",
+    "wd": "^1.7.0",
+    "wd-video": "^0.1.0"
   }
 }
