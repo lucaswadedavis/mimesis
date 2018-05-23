@@ -1,2 +1,5 @@
 node_modules
 creds.json
+screenshots/*
+.DS_Store
+

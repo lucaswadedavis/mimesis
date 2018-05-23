@@ -8,4 +8,15 @@ Be sure to **Not** install 2.9 I know that will seem like the most recent versio
 
 Also, you'll need to run the standalone selenium server. I used [selenium-standalone](https://www.npmjs.com/package/selenium-standalone), which required that I install the Java SDK.
 
+And make a screenshots directory.
 
+And make a creds.json file that looks something like this
+
+```
+{
+  "google": {
+    "username": "",
+    "password": ""
+  }
+}
+```
